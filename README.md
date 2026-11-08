@@ -24,4 +24,4 @@ Install the required libraries with:
     pip install pyperclip deep-translator plyer
 
 ✍️ Author
-Made by @LeviDev69
+Made by @LeviDev2224
